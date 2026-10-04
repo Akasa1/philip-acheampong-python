@@ -1,3 +1,4 @@
+#Assignment 1
 #section 1 Variables and Types 
 movie_title = "Akwasi"
 release_year = 2022
@@ -56,3 +57,5 @@ print(f"hobby: {hobby}")
 print(f"fun_fact: {fun_fact}")
 print(f"age: {age}")
 print("====================")
+
+#video URL https://youtu.be/xwjxSNzmh3s
